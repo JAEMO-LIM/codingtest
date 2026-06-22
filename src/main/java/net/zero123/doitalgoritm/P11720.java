@@ -13,6 +13,14 @@ public class P11720 {
             sum += cArr[i] - '0';
         }
 
-        System.out.println(sum);
+//        System.out.println(sum);
+//
+//        String sNum2 = "12345";
+//        int num = Integer.parseInt(sNum2);
+//        double d = Double.parseDouble(sNum2);
+//
+//        String sNum3 = String.valueOf(num);
+//        System.out.println(sNum3+1);
+
     }
 }
