@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class P11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int sum =0;
-        String sNum = sc.next();
-        char[] cNum = sNum.toCharArray();
-        for(int i=0;i<N;i++) {
-            sum += cNum[i]-'0';
+        int n = sc.nextInt();
+        int sum = 0;
+        String s = sc.next();
+        char[] cArr = s.toCharArray();
+        for (int i = 0; i < n; i++) {
+            sum += cArr[i] - '0';
         }
 
         System.out.println(sum);
