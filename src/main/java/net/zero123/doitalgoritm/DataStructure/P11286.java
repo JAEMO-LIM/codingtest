@@ -1,4 +1,4 @@
-package net.zero123.doitalgoritm;
+package net.zero123.doitalgoritm.DataStructure;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;

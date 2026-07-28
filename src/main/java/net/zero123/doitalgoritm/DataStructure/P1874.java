@@ -1,6 +1,5 @@
-package net.zero123.doitalgoritm;
+package net.zero123.doitalgoritm.DataStructure;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 import java.util.Stack;
 
