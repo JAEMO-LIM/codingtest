@@ -38,3 +38,19 @@ src/main/java/net/zero123/
  * [공간복잡도] O(?)
  */
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/JAEMO-LIM/codingtest/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/JAEMO-LIM/codingtest/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/JAEMO-LIM/codingtest/tree/main/0258-add-digits/) | Easy |
+<!---LeetCode Topics End-->
